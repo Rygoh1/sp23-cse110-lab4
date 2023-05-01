@@ -1,0 +1,1 @@
+1. The bug is that num1 and num2 are of type string and not numbers. 
